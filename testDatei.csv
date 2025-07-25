@@ -1,6 +1,4 @@
-Name;Beruf;Wohnort;Alter
-Erwin;Bäcker;Buxtehude;28
-Marta;Verkäuferin;Barcelona;37
-Benjamin;Präsident;Washington D.C.;319
-Michael;Sänger;Neverland;67
-Marilyn;Schauspielerin;New York;124
+Name,Beruf,Wohnort,Alter
+Erwin,Bäcker,Buxtehude,28
+Marta,Verkäuferin,Barcelona,37
+Benjamin,Präsident,Washington D.C.,319
